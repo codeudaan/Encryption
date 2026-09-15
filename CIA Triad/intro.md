@@ -4,7 +4,7 @@ The Protection afforded to an automated info system in order to attain the appli
 <hr>
 <h1> CIA TRIAD </h1>
 
-<center><div> <img src="C:\Users\dasde\OneDrive\Desktop\Encryption\CIA Triad\CIA TRIAD.png"></div></center>
+<center><div> <img src="github.com/codeudaan/Encryption/blob/main/CIA%20Triad/CIA%20TRIAD.png?raw=true"></div></center>
 <hr>
 🔐 1. Confidentiality
 
